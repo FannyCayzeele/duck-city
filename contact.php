@@ -15,7 +15,7 @@
 
 	<div class="contact-zone2">
 		<div class="container">
-			<p>Une question, une suggestion ... Nous sommes à votre écoute</p>
+			<p>Une question, une suggestion ... Nous sommes à votre écoute Blabla</p>
 		</div>
 	</div>
 

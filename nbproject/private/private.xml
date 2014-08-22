@@ -3,10 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/xampp/htdocs/duckcity/footer.php</file>
-            <file>file:/D:/xampp/htdocs/duckcity/gallery.php</file>
-            <file>file:/D:/xampp/htdocs/duckcity/index.php</file>
-            <file>file:/D:/xampp/htdocs/duckcity/header.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/actions/panier/order.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/views/panier/show.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/models/Model.class.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/models/SelectedProduct.class.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/actions/panier/show.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/actions/panier/deleteBasket.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/models/BoughtProduct.class.php</file>
+            <file>file:/D:/xampp/htdocs/duck-city/actions/panier/add.php</file>
         </group>
     </open-files>
 </project-private>

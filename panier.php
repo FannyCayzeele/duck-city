@@ -7,7 +7,7 @@
 	<div class="panier-zone1">
 		<img src="images/bg-panier.jpg">
 			<div class="title-page">
-			<h2 class="h2-title-page">Ton panier</h2>
+			<h2 class="h2-title-page">Mon panier</h2>
 			</div>
 		</div>
 
@@ -15,7 +15,7 @@
 
 	<div class="panier-zone2">
 		<div class="container">
-			<p>Voici tout les canards que tu as mit dans ton panier</p>
+			<p class="texte-intro">Voici tous les canards que tu as mis dans ton panier</p>
 		</div>
 	</div>
 
@@ -116,7 +116,7 @@
 			<div class="ligne-total">
 				<div class="title-ligne">
 					<h4>Frais de port</h4>
-					<h4>Totale de la commande</h4>
+					<h4>Total de la commande</h4>
 				</div>
 				<div class="prix-ligne">
 					<p>6,90€</p>

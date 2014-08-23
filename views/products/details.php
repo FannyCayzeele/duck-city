@@ -1,6 +1,6 @@
-<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/duck-city/phpconf/viewconf.php'; ?>
-<?php $nav_en_cours = 'page-shop-details'; ?>
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/duck-city/header.php'; ?>
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/tfe/duck-city/phpconf/viewconf.php'; ?>
+<?php $nav_en_cours = 'page-detail'; ?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/tfe/duck-city/header.php'; ?>
 </header>
 
 <script src="<?php echo WEBROOT . 'scripts/panier.js'; ?>"></script>
@@ -45,15 +45,15 @@
         <h2  class="h2-title-zone suggestion">Suggestion de duck</h2>
         <div class="one-third column suggestion-duck">
             <h3 class="h3-nom-duck"><a class="btn" href="fiche-duck.php">Duck Disco</a></h3>
-            <a href="fiche-duck.php"><img src="images/shop-galerie/duck-disco-p.png" alt="" /></a>
+            <a href="#"><img src="../../data/products/9/duck_disco_p.png" alt="" /></a>
         </div>
         <div class="one-third column suggestion-duck">
             <h3 class="h3-nom-duck"><a class="btn" href="">Duck princesse</a></h3>
-            <a href=""><img src="images/shop-galerie/duck-princesse-p.png" alt="" /></a>
+            <a href="#"><img src="../../data/products/17/duck_princesse_p.png" alt="" /></a>
         </div>
         <div class="one-third column suggestion-duck">
             <h3 class="h3-nom-duck"><a class="btn" href="">Duck cowboy</a></h3>
-            <a href=""><img src="images/shop-galerie/duck-cowboy-p.png" alt="" /></a>
+            <a href="#"><img src="../../data/products/3/duck_cowboy_p.png" alt="" /></a>
         </div>
     </div>
 

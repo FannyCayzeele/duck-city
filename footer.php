@@ -15,7 +15,7 @@
 			<div class="one-third column reseaux-sociaux">
 				<p>Devenez Fan</p>
 				<ul>
-					<li><a href="" class="footer-twitter"></a></li>
+					<li><a href="#" class="footer-twitter"></a></li>
 					<li><a href="https://www.facebook.com/pages/Duck-City/690047767717838" target="_blank" class="footer-facebook" ></a></li>
 					<li><a href="http://fr.pinterest.com/duckcitycontact/" target="_blank" class="footer-pinterest"></a></li>
 					<li><a href="https://plus.google.com/u/0/103285359204521434073/posts" target="_blank" class="footer-google"></a></li>

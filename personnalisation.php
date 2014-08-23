@@ -28,27 +28,27 @@
 						<ul>
 							<li class="etape1-couleur">
 								<div class="couleur jaune"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape1-couleur">
 								<div class="couleur rouge"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape1-couleur">
 								<div class="couleur bleu"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape1-couleur">
 								<div class="couleur rose"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape1-couleur">
 								<div class="couleur blanche"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape1-couleur">
 								<div class="couleur noire"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 						</ul>
 					</div>
@@ -64,27 +64,27 @@
 						<ul>
 							<li class="etape2-accessoire">
 								<div class="accessoire base"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape2-accessoire">
 								<div class="accessoire lunette-solaire"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape2-accessoire">
 								<div class="accessoire lunette-geek"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape2-accessoire">
 								<div class="accessoire corne"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape2-accessoire">
 								<div class="accessoire tatouage"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape2-accessoire">
 								<div class="accessoire trident"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 						</ul>
 					</div>
@@ -101,19 +101,19 @@
 						<ul>
 							<li class="etape3-costume">
 								<div class="costume base"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape3-costume">
 								<div class="costume vacancier"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape3-costume">
 								<div class="costume class"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 							<li class="etape3-costume">
 								<div class="costume chemise"></div>
-								<a class="btn btn-etape" href="#">Choisir</a>
+								<a class="btn btn-etape" href="#"><s>Choisir</s></a>
 							</li>
 						</ul>
 					</div>
@@ -130,9 +130,9 @@
 				<img src="images/customisation/costume-vacancier-profil.png">
 			</div>
 			<div class="btn-personnalisation">
-				<a href="" class="btn"> Enregistrer ma création</a>
+				<a href="" class="btn"> <s>Enregistrer ma création</s></a>
 				<p>Prix du duck : 19,99€</p>
-				<a href="" class="btn">Acheter ma création</a>
+				<a href="" class="btn"><s>Acheter ma création</s></a>
 			</div>
 
 		</div>

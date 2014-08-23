@@ -4,9 +4,9 @@
  * Correspond à duck-city/shop.php
  */
 ?>
-<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/duck-city/phpconf/viewconf.php'; ?>
+<?php require_once $_SERVER['DOCUMENT_ROOT'] . '/tfe/duck-city/phpconf/viewconf.php'; ?>
 <?php $nav_en_cours = 'page-shop'; ?>
-<?php require $_SERVER['DOCUMENT_ROOT'] . '/duck-city/header.php'; ?>
+<?php require $_SERVER['DOCUMENT_ROOT'] . '/tfe/duck-city/header.php'; ?>
 </header>
 
 <script src="<?php echo WEBROOT . 'scripts/panier.js'; ?>"></script>
@@ -125,7 +125,7 @@
 <div class="gallery-zone5">
     <div class="container">
         <p>Ce n'est pas grave ! Viens créer ton canard unique en lui ajoutant des accessoires !</p>
-        <a href="personnalisation.php" class="btn">Créer ton canard</a>
+        <a href="../../personnalisation.php" class="btn">Créer ton canard</a>
     </div>
 </div>
 
